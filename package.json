@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Bwogi/zookeepr#readme",
   "keywords": [],
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^27.1.0"
   }
 }
